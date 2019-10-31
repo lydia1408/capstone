@@ -1,0 +1,72 @@
+/*Website Style*/
+* {
+  font-size: 100%;
+
+}
+
+body {
+  background-color: grey;
+  color: black;
+  font-family:'Lato',Arial, sans-serif;
+  font-size 14px;
+}
+
+h1 {color:Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+H2 {color:DarkBlue;
+  font-size: 12px;
+}
+h3{
+  font-size: 10px;
+}
+h1,h2,h3 {
+  font-weight: 900;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+p {
+  margin: 15px 0;
+  line-height: 2;
+}
+
+ul, ol{
+  margin: 15px 0;
+}
+
+header,
+section,
+footer{
+  padding: 30px;
+}
+
+header{
+  border-bottom: 5px solid grey;
+}
+
+section{
+  border: 1px solid gainsboro;
+  background-color: white;
+  margin: 30px;
+  padding: 30px;
+}
+
+img{
+  height: 300px;
+}
+
+.title {
+  font-size: 48px;
+  text-decoration: ;
+}
+Header h1 {
+  text-align: left;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
